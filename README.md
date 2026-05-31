@@ -49,7 +49,7 @@ fat content, and outlet locations from 2012 to 2022.
 - Investigate 2018 sales peak to replicate success factors
 
 ## Files
-- `Blinkit_Dashboard.pbix` — Power BI dashboard file
+- `BlinkIt_data_analysis.pbix` — Power BI dashboard file
 
 ## Dashboard Preview
 ![Blinkit Dashboard](Dashboard.png)
