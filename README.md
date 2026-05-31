@@ -52,4 +52,4 @@ fat content, and outlet locations from 2012 to 2022.
 - `BlinkIt_data_analysis.pbix` — Power BI dashboard file
 
 ## Dashboard Preview
-![BlinkIt_data_analysis](Blinkit Dashboard.png)
+![BlinkIt_data_analysis.pbix](Blinkit_Dashboard.png)
